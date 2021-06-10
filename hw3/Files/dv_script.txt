@@ -1,0 +1,9 @@
+read_sverilog glitchy.sv
+compile
+write -hierarchy -format verilog -output glitchy.gate.v
+
+read_sverilog glitchless.sv
+compile
+write -hierarchy -format verilog -output glitchless.gate.v
+
+exit

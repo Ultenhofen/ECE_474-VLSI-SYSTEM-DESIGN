@@ -1,0 +1,2 @@
+Part 3:
+I chose to use * because reset_n is asynchronous and can happen at anytime
