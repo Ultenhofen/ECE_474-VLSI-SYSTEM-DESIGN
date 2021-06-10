@@ -1,0 +1,5 @@
+1. Total Area = 1079
+2. Number of types of cells = 16
+3. Number of cells = 187
+4. From what I see in the report_hierarchy command, it added a full adder to the design.
+5. Maximum delay = 2.43, Maximum delay Path: opcode[1] => alu_zero
